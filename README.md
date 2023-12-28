@@ -1,9 +1,9 @@
 
 # Gravity Books Data Warehouse Solution
-Overview
+## Overview
 This repository contains the solution for creating a data warehouse ('gravity_books_dwh') for the Gravity Books company. The solution encompasses the creation of tables, ETL processes, OLAP cubes, and self-service BI reporting using PowerPivot or Power BI.
 
-Solution Components
+## Solution Components
 DDL Statements: Contains SQL scripts for table creation in the data warehouse.
 ETL SSIS Project: SSIS packages to extract data from the 'gravity_books' transactional database and load it into the data warehouse.
 OLAP SSAS Project: Tabular model developed using SQL Server Data Tools for creating cubes.
