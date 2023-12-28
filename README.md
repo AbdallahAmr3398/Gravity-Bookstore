@@ -1,5 +1,9 @@
 
 # Gravity Books Data Warehouse Solution
+ 
+ \![powerbi](https://github.com/AbdallahAmr3398/Gravity-Bookstore/assets/141870604/502eacee-8c89-427e-856a-4a69f4530e57)
+
+
 ## Overview
 This repository contains the solution for creating a data warehouse ('gravity_books_dwh') for the Gravity Books company. The solution encompasses the creation of tables, ETL processes, OLAP cubes, and self-service BI reporting using PowerPivot or Power BI.
 
