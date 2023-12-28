@@ -1,7 +1,7 @@
 
 # Gravity Books Data Warehouse Solution
  
- \![powerbi](https://github.com/AbdallahAmr3398/Gravity-Bookstore/assets/141870604/502eacee-8c89-427e-856a-4a69f4530e57)
+ ![powerbi](https://github.com/AbdallahAmr3398/Gravity-Bookstore/assets/141870604/502eacee-8c89-427e-856a-4a69f4530e57)
 
 
 ## Overview
